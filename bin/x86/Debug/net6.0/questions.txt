@@ -1,7 +1,11 @@
 //
-prosty kod1 0,1 0,5 ewa morale 2
+prosty 51238A BrakującyLog. 0,1 0,5 ewa sprawnosc 2
 //
-opt kod2 0,2 0,6 ania morale 3 frania zapasy 4
+prosty 78246B BrakująceHasło. 0,2 0,6 362 sprawnosc 3
 //
-zamk kod3 0,3 0,7 a b c za każdą 1 poprawną: morale 1 błąd: morale -50
+opt 427819I RacjeZywnościowe 0,3 0,7 121 morale 3 141 zapasy 3 161 sprawnosc 3
+//
+zamk 201938II AlternatywaŻywieniowa 0,4 0,8 a c d g h j za każde 3 poprawne: morale 3 błąd: morale -1
+//
+zamk 495832III Kadra 0,5 0,9 a c g d b f e h i za każde 3 poprawne: morale 3 błąd: morale -1
 
